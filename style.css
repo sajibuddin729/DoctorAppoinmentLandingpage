@@ -1,0 +1,140 @@
+body{
+    margin: 0px;
+    padding: opx;
+    
+}
+.navbar_containar{
+ display:flex;
+ align-items:center;
+ justify-content:space-around;
+ background-color:#0d7b77;;
+}
+.logo{
+    width: 100px;
+}
+.manus_container{
+    display: flex;
+    list-style: none;
+    gap: 20px;
+    font-size:22px;
+    color: white;
+
+
+}
+.banner_img{
+    width: 100%;
+}
+.banner_container{
+    display: flex;
+    width: 80%;
+    height: 82vh;
+    margin: auto;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+.title{
+    font-size: 76px;
+    font-weight: bold;
+    color: #00ca9a;
+    text-align:center ;
+}
+.des{
+    font-size: 22px;
+}
+button{
+    padding:15px 25px;
+    border:none;
+    color: white;
+    font-size: 20px;
+    
+}
+
+.appbat{
+    background-color: #00ca9a;
+      
+}
+.docbat{
+    background-color: #0d7b77;
+}
+.servicecard{
+    width: 300px;
+    height:250px;
+    box-shadow: 8px 8px 16px gray;
+    text-align: center;
+    padding: 20px;
+
+}
+.hater{
+    width: 100px;
+}
+.cards{
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+.contact-coontainer{
+    text-align: center;
+}
+.input-box{
+    padding: 15px 30px;
+    margin: 10px;
+}
+.txt-area{
+    padding: 20px 60px;
+
+}
+.submit-button{
+    padding:10px 20px;
+    width: 30%;
+    margin-top: 15px;
+    background-color:#00ca9a;
+    color: white;
+    font-size: 20px;
+    border: none;
+}
+.date{
+    padding: 10px 20px;
+    margin-top: 15px;
+}
+.mainjinis{
+    background-color: #026d6a;
+    
+}
+.latcontainer{
+    
+    display: flex;
+    padding: 30px;
+    gap: 30px;
+    margin-top: 20px;
+    
+}
+.useful{
+    list-style-type: none;
+    padding: 10px 20px;
+    text-decoration: white;
+    color: white;
+
+}
+.paragrap{
+    padding-top: 60px;
+    padding-left: 30px;
+    color: white;
+
+    
+}
+/* Styling the <hr> tag */
+hr {
+    border: none; /* Remove default border */
+    height: 2px; /* Set height of the horizontal rule */
+    background-color: #f7f4f4; /* Set background color */
+    margin: 50px;
+}
+.lstpoint{
+    color: white;
+    text-align: center;
+    padding-bottom: 20px;
+    
+}
